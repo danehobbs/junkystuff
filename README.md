@@ -1,7 +1,9 @@
 # Heading1
+===========
 This is test on markdown
 
 ## Heading2
+-----------
 Learn to create unordered list
 * This is the first item
 * This is the second item
